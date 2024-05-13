@@ -33,7 +33,7 @@ npm start
 Start the server
 
 ```bash
- server
+cd server
 ```
 ```bash
 npm start
