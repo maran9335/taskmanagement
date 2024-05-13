@@ -5,7 +5,7 @@
 
 ## Tech Stack
 
-**Client:** React  T
+**Client:** React JS
 
 **Server:** Node, Express
 
